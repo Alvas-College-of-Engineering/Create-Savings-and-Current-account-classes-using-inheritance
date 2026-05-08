@@ -1,0 +1,8 @@
+com\bank\BankService.class
+com\bank\CurrentAccount.class
+com\bank\BankWebApplication.class
+com\bank\PageRenderer.class
+com\bank\Transaction.class
+com\bank\SavingsAccount.class
+com\bank\Money.class
+com\bank\BankAccount.class
